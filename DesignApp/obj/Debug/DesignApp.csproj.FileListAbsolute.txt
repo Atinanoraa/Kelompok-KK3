@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\DesignApp\DesignApp\bin\Debug\DesignApp.exe.config
+C:\Users\user\source\repos\DesignApp\DesignApp\bin\Debug\DesignApp.exe
+C:\Users\user\source\repos\DesignApp\DesignApp\bin\Debug\DesignApp.pdb
+C:\Users\user\source\repos\DesignApp\DesignApp\obj\Debug\DesignApp.csprojAssemblyReference.cache
+C:\Users\user\source\repos\DesignApp\DesignApp\obj\Debug\DesignApp.Form1.resources
+C:\Users\user\source\repos\DesignApp\DesignApp\obj\Debug\DesignApp.Properties.Resources.resources
+C:\Users\user\source\repos\DesignApp\DesignApp\obj\Debug\DesignApp.csproj.GenerateResource.cache
+C:\Users\user\source\repos\DesignApp\DesignApp\obj\Debug\DesignApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DesignApp\DesignApp\obj\Debug\DesignApp.exe
+C:\Users\user\source\repos\DesignApp\DesignApp\obj\Debug\DesignApp.pdb
